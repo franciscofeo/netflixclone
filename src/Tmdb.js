@@ -1,4 +1,4 @@
-const API_KEY = "90c819ac78ac14a7e89495d0fcadd1d9";
+const API_KEY = "####"; // get your api key for free on the tmdb website!
 const API_BASE = "https://api.themoviedb.org/3";
 
 /*
