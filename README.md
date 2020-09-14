@@ -1,8 +1,8 @@
-# Netflix Clone with ReactJS and MaterialUI
+# Netflix Clone with ReactJS and MaterialUI 🎬
 
 You can obtain a free API Key on the [The Movie DataBase](https://www.themoviedb.org/documentation/api) and replace your key in the file Tmdb.js
 
-## Available Scripts
+## Available Scripts :fire:
 
 In the project directory, you can run:
 
